@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaustFelipe
-- 👀 I’m interested in Mobile Software Engineering
+- 👀 I really love software development. Now, I'm currently looking for become a Senior Android Developer
 <!-- - 🌱 I’m currently learning Flutter and native iOS Development-->
-- 💞️ I’m looking to collaborate on Android Development
+<!-- - 💞️ I’m looking to collaborate on Android Development -->
 <!-- - 📫 How to reach me: felipe.alexandre.012@gmail.com -->
 
 <!---
